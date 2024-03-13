@@ -8,7 +8,7 @@ function BowlerList() {
   //Fetching data from the bowlers table first and then the teams table
   useEffect(() => {
     const fetchBowlerData = async () => {
-      const bowlResponse = await fetch('https://localhost:44355/Bowlers');
+      const bowlResponse = await fetch('http://localhost:5106/Bowlers');
       const bowlers = await bowlResponse.json();
       setBowlerData(bowlers);
     };

@@ -125,3 +125,4 @@ C:\Users\ethannance\source\repos\Mission10React\backend\Mission10_Nance\Mission1
 C:\Users\ethannance\source\repos\Mission10React\backend\Mission10_Nance\Mission10_Nance\obj\Debug\net8.0\Mission10_Nance.pdb
 C:\Users\ethannance\source\repos\Mission10React\backend\Mission10_Nance\Mission10_Nance\obj\Debug\net8.0\Mission10_Nance.genruntimeconfig.cache
 C:\Users\ethannance\source\repos\Mission10React\backend\Mission10_Nance\Mission10_Nance\obj\Debug\net8.0\ref\Mission10_Nance.dll
+C:\Users\ethannance\source\repos\Mission10React\backend\Mission10_Nance\Mission10_Nance\obj\Debug\net8.0\Mission10_Nance.sourcelink.json

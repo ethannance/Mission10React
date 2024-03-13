@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10_Nance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8892c95a8f0bc6c95dbcc63091d5211764c73dbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58598cda3b2525cc336ec83ba58635f9a5fe5151")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10_Nance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10_Nance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
