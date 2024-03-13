@@ -1,0 +1,6 @@
+@Mission10_Nance_HostAddress = http://localhost:5106
+
+GET {{Mission10_Nance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
